@@ -1,5 +1,6 @@
 ### **Keystone AI Roadmap**
 
+---
 #### Phase 1: Initial Development
 **Objective:** Lay the foundational infrastructure for Keystone AI and establish core functionalities.  
 - **Milestone:** Launch of the AI-Powered Token Profile Generator.  
@@ -62,3 +63,4 @@
 - **Deliverables:**  
   - Cross-chain integration.  
   - Sustained platform growth with regular feature upgrades.
+---
