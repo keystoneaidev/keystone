@@ -76,7 +76,7 @@ This project is licensed under the [MIT License](LICENSE).
 We welcome contributions! Please fork the repository and submit a pull request.
 
 ## 📬 Contact
-For inquiries, open an issue or contact `your-email@example.com`.
+For inquiries, open an issue or contact `dev@keystoneai.dev`.
 
 ---
 _Keystone AI - 🚀 AI-Driven Web3 Innovation and Incubation_
