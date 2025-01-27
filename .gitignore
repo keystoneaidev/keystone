@@ -1,1 +1,41 @@
+# Virtual environment
+venv/
+.env
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and databases
+*.log
+db.sqlite3
+keystone.db
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Cache files
+.cache/
+
+# PyTorch & model files
+models/
+checkpoints/
+*.pt
+*.pth
+
+# Node modules (if applicable)
+node_modules/
+
+# IDE/editor-specific files
+.vscode/
+.idea/
+*.swp
+.DS_Store
 
