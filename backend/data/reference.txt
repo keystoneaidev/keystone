@@ -1,1 +1,85 @@
+Keystone AI - Reference Data
 
+Blockchain Consensus Mechanisms:
+
+Proof of Work (PoW) - Secure but energy-intensive.
+
+Proof of Stake (PoS) - More efficient, staking-based validation.
+
+Delegated Proof of Stake (DPoS) - Faster, uses delegates for block validation.
+
+Byzantine Fault Tolerance (BFT) - Used in Hyperledger, Cosmos.
+
+Proof of Authority (PoA) - Centralized, identity-based consensus.
+
+Smart Contract Security Risks:
+
+Reentrancy Attacks - Functions calling themselves before execution completes.
+
+Integer Overflow & Underflow - Arithmetic errors leading to unintended behavior.
+
+Front-running - Exploiting transaction order to gain advantage.
+
+Unchecked External Calls - Calling untrusted contracts without validation.
+
+Default Visibility - Functions defaulting to public when intended to be private.
+
+Token Standards:
+
+ERC-20 - Standard fungible token.
+
+ERC-721 - Non-fungible token (NFT) standard.
+
+ERC-1155 - Multi-token standard allowing fungible and non-fungible in one contract.
+
+BEP-20 - Binance Smart Chain equivalent of ERC-20.
+
+Common API Endpoints:
+
+/api/predict - Predicts blockchain market trends.
+
+/api/transaction/{tx_hash} - Fetches transaction details.
+
+/api/address/{wallet_address} - Retrieves wallet balances and history.
+
+/api/smartcontract/{contract_address} - Analyzes smart contract security.
+
+/api/marketdata - Provides market insights from multiple chains.
+
+Key Blockchain Metrics:
+
+Hash Rate - Computational power securing the network.
+
+Transaction Throughput - Measured in TPS (transactions per second).
+
+Gas Fees - Cost of executing operations on-chain.
+
+Validator Count - Number of nodes securing the network.
+
+Block Time - Average time taken to produce a new block.
+
+AI-Driven Risk Assessment Factors:
+
+Historical Transaction Patterns - Identifying suspicious activity.
+
+Smart Contract Audit Reports - Evaluating code security.
+
+Network Anomalies - Detecting unusual blockchain events.
+
+Market Sentiment Analysis - AI-driven evaluation of public sentiment.
+
+Regulatory Compliance Indicators - Monitoring adherence to legal frameworks.
+
+Data Sources:
+
+Blockchain Explorers - Etherscan, BSCScan, Solscan.
+
+Market APIs - CoinGecko, CoinMarketCap, Glassnode.
+
+AI Models - Predictive models trained on past blockchain data.
+
+Oracle Networks - Chainlink, Band Protocol.
+
+On-chain Analytics - Dune Analytics, Nansen.
+
+Last Updated: 2025-01-26
